@@ -1,0 +1,61 @@
+Pengembangan website portofolio untuk satu orang menggunakan metode Agile bisa diterapkan dengan beberapa modifikasi agar lebih efisien. Agile pada umumnya digunakan dalam tim, namun untuk pengembangan individu, kamu bisa menggunakan prinsip-prinsip Agile yang disederhanakan. Berikut adalah tahapan detail pengembangan website portofolio menggunakan Agile:
+1. Inception (Penentuan Tujuan)
+
+    Identifikasi tujuan website: Apa yang ingin dicapai dengan portofolio? Misalnya, menampilkan karya, mendapatkan klien, atau melamar pekerjaan.
+    Target audiens: Tentukan siapa yang akan mengunjungi portofolio (perekrut, calon klien, dll.).
+    Teknologi yang digunakan: Putuskan teknologi seperti HTML, CSS, JavaScript, framework (misalnya, ReactJS), hosting platform (misalnya, GitHub Pages atau Netlify).
+
+2. Backlog Creation (Daftar Fitur)
+
+    Buat Product Backlog, yaitu daftar fitur yang akan dikembangkan, misalnya:
+        Halaman About Me.
+        Daftar Proyek.
+        Formulir Kontak.
+        Optimasi SEO.
+    Setiap fitur ini akan dipecah menjadi User Stories, misalnya:
+        "Sebagai pengunjung, saya ingin melihat proyek-proyek yang telah saya kerjakan sehingga saya dapat menilai keterampilan saya."
+
+3. Sprint Planning
+
+    Sprint 1: Fokus pada elemen dasar website, seperti struktur HTML dan CSS dasar.
+    Sprint 2: Implementasi galeri proyek, detail proyek, dan navigasi.
+    Sprint 3: Tambahkan fitur form kontak dan optimasi untuk mobile.
+    Setiap sprint biasanya berlangsung selama 1-2 minggu. Setiap sprint harus menghasilkan website yang berfungsi (walaupun belum sempurna).
+
+4. Design & Development (Desain dan Pengembangan)
+
+    Sprint 1: Buat wireframe sederhana untuk mengatur tata letak halaman portofolio.
+        Desain tampilan responsif (untuk desktop dan mobile).
+        Kode struktur HTML/CSS dasar.
+    Sprint 2: Mulai kembangkan halaman utama, tambahkan konten dan gaya, serta pastikan setiap bagian dapat diakses.
+    Sprint 3: Tambahkan fitur interaktif dengan JavaScript (seperti carousel proyek, form kontak dengan validasi).
+
+5. Testing (Pengujian)
+
+    Setelah setiap sprint, lakukan pengujian manual untuk memastikan fungsi website sesuai dengan yang diinginkan.
+    Uji responsivitas di berbagai perangkat dan browser.
+    Lakukan perbaikan berdasarkan hasil pengujian.
+
+6. Retrospective dan Perbaikan
+
+    Setelah menyelesaikan sprint, evaluasi proses: Apa yang berjalan baik? Apa yang bisa ditingkatkan? Apa yang perlu diperbaiki pada sprint berikutnya?
+    Refactor kode, optimasi performa, dan perbaiki bug.
+
+7. Deployment
+
+    Setelah semua fitur dikembangkan dan diuji, deploy website ke platform hosting yang telah dipilih (misalnya GitHub Pages atau Netlify).
+    Lakukan pengujian pasca-deploy untuk memastikan website berfungsi dengan baik di environment live.
+
+8. Maintenance dan Iterasi
+
+    Lakukan pembaruan berkala, tambahkan proyek baru atau optimasi tambahan berdasarkan feedback pengguna.
+
+Metode Alternatif: Kanban
+
+Jika kamu merasa Agile terlalu formal atau berlebihan untuk pengembangan satu orang, kamu bisa menggunakan Kanban:
+
+    Fokus pada flow pekerjaan tanpa sprint.
+    Buat board Kanban dengan kolom seperti To Do, In Progress, dan Done.
+    Setiap pekerjaan/fitur ditempatkan di board ini, dan kamu bekerja secara bertahap hingga semua fitur selesai.
+
+Kedua metode (Agile dan Kanban) dapat bekerja dengan baik untuk pengembangan individu. Agile memberikan lebih banyak struktur, sementara Kanban lebih fleksibel.
